@@ -92,8 +92,8 @@ const WeatherApp = () => {
   };
 
   return (
-   <div className="min-h-screen bg-gradient-to-br from-purple-500 via-pink-500 to-yellow-500 p-4">
-      <div className="max-w-4xl mx-auto">
+<div className="min-h-screen bg-gradient-to-br from-blue-400 via-blue-500 to-blue-600 p-4">
+        <div className="max-w-4xl mx-auto">
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-white mb-2">Weather Dashboard</h1>
           <p className="text-blue-100">Get current weather and 3-day forecast</p>
